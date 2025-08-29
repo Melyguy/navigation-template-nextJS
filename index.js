@@ -30,8 +30,8 @@ try {
   console.log('Success! Your project is ready.');
   console.log('Next steps:');
   console.log(`  cd ${project_name}`);
-  console.log('  bun install');
-  console.log('  bun dev');
+  console.log('  bun/npm install');
+  console.log('  bun/npm dev');
 } catch (err) {
   console.error('Failed to create project:', err);
   process.exit(1);
