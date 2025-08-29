@@ -6,10 +6,6 @@
   "bin": {
     "create-navigation-template": "./index.js"
   },
-  "files": [
-    "index.js",
-    "template"
-  ],
   "scripts": {
     "start": "node index.js"
   },
