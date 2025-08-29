@@ -1,6 +1,6 @@
 {
   "name": "create-navigation-template",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Test template to instantly add navbar and footer to page at creation.",
   "main": "index.js",
   "bin": {
