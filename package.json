@@ -1,0 +1,22 @@
+{
+  "name": "create-navigation-template",
+  "version": "1.0.1",
+  "description": "Test template to instantly add navbar and footer to page at creation.",
+  "main": "index.js",
+  "bin": {
+    "create-navigation-template": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "keywords": [
+    "nextjs",
+    "template",
+    "boilerplate"
+  ],
+  "author": "3XM/3XMelly",
+  "license": "MIT"
+}
