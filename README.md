@@ -4,4 +4,4 @@
 ## Usage
 - Run ``` npm i create-navigation-template ```
 - When the install is completed, Run ```npm create-navigation-template@latest <"Project-Name"> ```
-- Follow the project creation steps such as: ```cd <"Project-Name">```, ```npm install```, ```npm dev```
+- Follow the project creation steps such as: ```cd <"Project-Name">```, ```npm install```, ```npm run dev```
