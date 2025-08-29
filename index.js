@@ -11,7 +11,7 @@ const project_name = process.argv[2];
 
 if (!project_name) {
   console.error('Please specify the project directory:');
-  console.log('  create-lhagfoss-template <project-directory>');
+  console.log('  create-navigation-template <project-directory>');
   process.exit(1);
 }
 
