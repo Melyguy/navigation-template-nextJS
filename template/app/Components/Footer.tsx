@@ -23,9 +23,7 @@
                  <Link className=" p-2 text-neutral-800 text-2xl hover:text-neutral-950" href="https://github.com/Melyguy?tab=repositories">
                      <FaGithub />
                  </Link>
-                 <Link className="p-2 text-neutral-800 text-2xl hover:text-neutral-950" href="">
-                     <FaLinkedin />
-                 </Link>
+                 
                  <Link className="p-2 text-neutral-800 text-2xl hover:text-neutral-950" href="https://zkeler.itch.io/">
                      <SiItchdotio />
                  </Link>
