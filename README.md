@@ -1,11 +1,11 @@
 
-# 🚀 Next.js Template – with Navbar & Footer
+# Next.js Template – with Navbar & Footer
 
 A simple **Next.js starter template** that comes with a prebuilt **responsive Navbar and Footer**, so you can jump straight into building your app instead of setting up the basics.
 
 ----------
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ### 1. Install the CLI
 
@@ -32,26 +32,26 @@ npm run dev
 
 ```
 
-Then open your browser and visit **[http://localhost:3000](http://localhost:3000/)** 🎉
+Then open your browser and visit **[http://localhost:3000](http://localhost:3000/)**
 
 ----------
 
-## ✨ Features
+##  Features
 
--   ⚡ Instant Next.js setup
+-   Instant Next.js setup
     
--   🧭 Prebuilt, responsive **Navbar**
+-   Prebuilt, responsive Navbar
     
--   ⚓ Clean and modern **Footer**
+-   Clean and modern Footer
     
--   🧩 Easily customizable components
+-   Easily customizable components
     
--   📁 Organized project structure
+-   Organized project structure
     
 
 ----------
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   [Next.js](https://nextjs.org/)
     
@@ -62,7 +62,7 @@ Then open your browser and visit **[http://localhost:3000](http://localhost:3000
 
 ----------
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!  
 Feel free to **open issues or pull requests** to improve this template.
