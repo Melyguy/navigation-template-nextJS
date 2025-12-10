@@ -3,6 +3,8 @@
 
 A simple **Next.js starter template** that comes with a prebuilt **responsive Navbar and Footer**, so you can jump straight into building your app instead of setting up the basics.
 
+### Note: Package is deprecated
+
 ----------
 
 ## Installation & Usage
